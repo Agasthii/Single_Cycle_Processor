@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z030fbg676-3" LaunchTime="1697361797">
+  <File Type="ROUTE-PWR" Name="Step_Datapath_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="Step_Datapath.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="Step_Datapath_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="Step_Datapath_reports.tcl"/>
+  <File Type="BITSTR-MSK" Name="Step_Datapath.msk"/>
+  <File Type="ROUTE-CLK" Name="Step_Datapath_clock_utilization_routed.rpt"/>
+  <File Type="RDI-RDI" Name="Step_Datapath.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="Step_Datapath_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="Step_Datapath.bit"/>
+  <File Type="BG-DRC" Name="Step_Datapath.drc"/>
+  <File Type="BG-BGN" Name="Step_Datapath.bgn"/>
+  <File Type="BG-BIN" Name="Step_Datapath.bin"/>
+  <File Type="BITSTR-RBT" Name="Step_Datapath.rbt"/>
+  <File Type="BITSTR-NKY" Name="Step_Datapath.nky"/>
+  <File Type="BITSTR-BMM" Name="Step_Datapath_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="Step_Datapath.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Step_Datapath_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-SYSDEF" Name="Step_Datapath.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Step_Datapath_methodology_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Step_Datapath.ltx"/>
+  <File Type="BOOT-PDI-FILE" Name="Step_Datapath_soc.pdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="NPI_FILE" Name="Step_Datapath.npi"/>
+  <File Type="OPT-DRC" Name="Step_Datapath_drc_opted.rpt"/>
+  <File Type="RBD_FILE" Name="Step_Datapath.rbd"/>
+  <File Type="OPT-HWDEF" Name="Step_Datapath.hwdef"/>
+  <File Type="PLACE-IO" Name="Step_Datapath_io_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Step_Datapath_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Step_Datapath_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Step_Datapath_control_sets_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Step_Datapath_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-DRC" Name="Step_Datapath_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Step_Datapath_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="Step_Datapath_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="Step_Datapath_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Step_Datapath_route_status.pb"/>
+  <File Type="ROUTE-DCP" Name="Step_Datapath_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Step_Datapath_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Step_Datapath_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Step_Datapath_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Step_Datapath_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Step_Datapath_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Step_Datapath_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="Step_Datapath_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="Step_Datapath_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="Step_Datapath_bus_skew_routed.rpx"/>
+  <File Type="OPT-DCP" Name="Step_Datapath_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="Step_Datapath_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="Step_Datapath_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Step_Datapath_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="Step_Datapath_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Step_Datapath_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Step_Datapath_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Step_Datapath_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Step_Datapath_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Step_Datapath_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="Step_Datapath_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="Step_Datapath_bus_skew_postroute_physopted.rpx"/>
+  <File Type="ROUTE-DRC-RPX" Name="Step_Datapath_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Step_Datapath_methodology_drc_routed.rpx"/>
+  <File Type="PDI-FILE" Name="Step_Datapath.pdi"/>
+  <File Type="PL-PDI-FILE" Name="Step_Datapath_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="Step_Datapath.rcfi"/>
+  <File Type="CFI_FILE" Name="Step_Datapath.cfi"/>
+  <File Type="RNPI_FILE" Name="Step_Datapath.rnpi"/>
+  <File Type="ROUTE-RQS" Name="Step_Datapath_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="Step_Datapath_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/ALU.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Branch_comp.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Control_logic.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Data_Memory.v">
+      <FileInfo SFType="SVerilog">
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Imm_Gen.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Instruction_mem.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Mux_2.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Mux_2_B.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Mux_2_D.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/PC.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/PC_ALU4.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Registry_file.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mux_2_C.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Step_Datapath.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Unsigned_Mul.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Step_Datapath"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/Data_Memory.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="UsedInSteps" Val="synth_1_copy_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>
